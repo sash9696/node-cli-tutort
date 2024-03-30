@@ -1,0 +1,30 @@
+{
+  "notes": [
+    {
+      "tags": ["learn", " fun", " code"],
+      "content": "Learning js",
+      "id": 1711775946284
+    },
+    {
+      "tags": ["learn", " fun", " code"],
+      "content": "Learning html",
+      "id": 1711775959926
+    },
+    {
+      "tags": ["learn", " fun", " code"],
+      "content": "Learning html 3",
+      "id": 1711775959926
+    },
+
+    {
+      "tags": ["learn", " fun", " code"],
+      "content": "Learning html 4",
+      "id": 1711775959926
+    },
+    {
+      "tags": ["music", " fun", " code"],
+      "content": "music",
+      "id": 1711775959926
+    }
+  ]
+}
